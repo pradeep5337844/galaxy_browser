@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from [:sqflite] C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\build\sqflite\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter] C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\build\webview_flutter\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\0c482d7b4ac21d69fca83d23280d7696\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\webkit-1.0.0.aar\64c0fb62ca705592ee368b84feb72e0d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\899c6d85a8eae1233322fa5f0efe1bec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\7ac53011ea11e95a017aa2b1a7af1a2b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\c60688ec4b69ea2bf5b8ef49b0b89912\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\414d2e31e95942f2b3b2dbbf3d20fd22\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b7cfd71dab09e2228872522b0b9fd22b\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\4a4a222ae7b6fc75236ddfbb9fd6475e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\6eca4c354be4d492afddf6280802f7ab\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\0d5553e2e98d3a1b2e74c46031bf0150\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\6d2d7a0b143b2794842ef128ab3cc63e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\5effc142a628b0ae9c8e079ce3b0d352\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\51300710f21d56fd4171dd7bb0d6f554\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\61c2be71bb40969953389db6821088aa\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:2:5-44
+		INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:9:5-33:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b7cfd71dab09e2228872522b0b9fd22b\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b7cfd71dab09e2228872522b0b9fd22b\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\51300710f21d56fd4171dd7bb0d6f554\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\51300710f21d56fd4171dd7bb0d6f554\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b7cfd71dab09e2228872522b0b9fd22b\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:11:9-39
+	android:icon
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:13:9-43
+	android:usesCleartextTraffic
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:12:9-44
+	android:name
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:10:9-57
+activity#com.dartartau.flutter_browser.MainActivity
+ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:14:9-32:20
+	android:launchMode
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:16:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:19:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:20:13-55
+	android:configChanges
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:18:13-144
+	android:theme
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:17:13-47
+	android:name
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:15:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:25:13-27:40
+	android:value
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:27:17-37
+	android:name
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:26:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:29:17-68
+	android:name
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml
+MERGED from [:sqflite] C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\build\sqflite\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\build\sqflite\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\build\webview_flutter\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\build\webview_flutter\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\0c482d7b4ac21d69fca83d23280d7696\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\0c482d7b4ac21d69fca83d23280d7696\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\webkit-1.0.0.aar\64c0fb62ca705592ee368b84feb72e0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\webkit-1.0.0.aar\64c0fb62ca705592ee368b84feb72e0d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\899c6d85a8eae1233322fa5f0efe1bec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\899c6d85a8eae1233322fa5f0efe1bec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\7ac53011ea11e95a017aa2b1a7af1a2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\7ac53011ea11e95a017aa2b1a7af1a2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\c60688ec4b69ea2bf5b8ef49b0b89912\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\c60688ec4b69ea2bf5b8ef49b0b89912\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\414d2e31e95942f2b3b2dbbf3d20fd22\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\414d2e31e95942f2b3b2dbbf3d20fd22\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b7cfd71dab09e2228872522b0b9fd22b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\b7cfd71dab09e2228872522b0b9fd22b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\4a4a222ae7b6fc75236ddfbb9fd6475e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\4a4a222ae7b6fc75236ddfbb9fd6475e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\6eca4c354be4d492afddf6280802f7ab\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\6eca4c354be4d492afddf6280802f7ab\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\0d5553e2e98d3a1b2e74c46031bf0150\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\0d5553e2e98d3a1b2e74c46031bf0150\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\6d2d7a0b143b2794842ef128ab3cc63e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\6d2d7a0b143b2794842ef128ab3cc63e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\5effc142a628b0ae9c8e079ce3b0d352\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\5effc142a628b0ae9c8e079ce3b0d352\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\51300710f21d56fd4171dd7bb0d6f554\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\51300710f21d56fd4171dd7bb0d6f554\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\61c2be71bb40969953389db6821088aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pradeep\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\61c2be71bb40969953389db6821088aa\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\pradeep\AndroidStudioProjects\galaxybrowser\android\app\src\debug\AndroidManifest.xml:6:22-64
